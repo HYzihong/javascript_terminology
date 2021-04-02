@@ -1,0 +1,2 @@
+# javascript_terminology
+javascript terminology repository
